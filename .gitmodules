@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SingleMoleculeFootprinting"]
 	path = SingleMoleculeFootprinting
 	url = https://github.com/krebslabrep/singlemoleculefootprinting
-	shallow = true
-	registered = true
